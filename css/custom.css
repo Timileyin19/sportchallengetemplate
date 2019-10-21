@@ -210,6 +210,53 @@ span a:hover {
     background: #152036;
 }
 
+/* Form Field */
+.my-input-dropdown {
+    font-size: 1.125rem;
+    font-weight: 600;
+    border: .063rem solid #8389b7;
+    border-radius: 3.125rem;
+    background: #272e71;
+    padding: .313rem .313rem 3.313rem;
+}
+
+.my-main-form {
+    float: left;
+    background: #272e71;
+    outline: none;
+    border: none;
+    color: #fefefe;
+    width: 45%;
+    padding: .75rem 0;
+    margin-left: 1.5rem;
+}
+button.my-form-btn-dropdown {
+    position: relative;
+    font-family: Open Sans;
+    font-weight: 400;
+    background-image: -webkit-linear-gradient(169deg,#e40015,#750075);
+    color: #cdcbd9;
+    outline: none;
+    border: none;
+    padding: .75rem 1.688rem;
+    margin: 0 .5rem;
+    border-radius: 3.438rem;
+    font-size: 1rem;
+    -webkit-appearance: none;
+    word-wrap: normal;
+}
+.my-form-dropdown {
+    display: inline-block;
+    position: relative;
+    float: right;
+    background-image: -webkit-linear-gradient(169deg,#e40015,#750075);
+    color: #cdcbd9;
+    border-radius: 1.875rem;
+    outline: none;
+    border: .063rem solid #2d294c;
+}
+
+
 /* bootstrap snippet */
 
   /* Profile container */
